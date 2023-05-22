@@ -1,0 +1,8 @@
+15:23:01
+public ip_addr:104.28.225.12
+Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: APPLE
+Private Ip Addr: 10.0.8.131
+-----------------------------------
